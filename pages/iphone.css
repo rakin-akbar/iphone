@@ -1,0 +1,13 @@
+.body{
+    display: flex;
+    width: 100%;
+}
+.text{
+   width: 50%;
+   
+   
+}
+.sp{
+    font-size: 20px;
+    color: blue;
+}
